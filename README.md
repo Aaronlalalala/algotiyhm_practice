@@ -1,5 +1,7 @@
 c語言專案 meeting practice , python檔案可直接讀取, 作業系統作業在matrix_calculation.py中
 
+作者: 楊哲綸 
+
 ##  專案架構如下
 sorting algorithm
 
