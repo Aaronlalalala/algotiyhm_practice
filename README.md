@@ -1,4 +1,4 @@
-c語言專案 meeting practice , python檔案可直接讀取, 作業系統作業在matrix_calculation.py中
+c語言專案 algorithm practice , python檔案可直接讀取, 作業系統作業在matrix_calculation.py中
 
 作者: 楊哲綸 
 
